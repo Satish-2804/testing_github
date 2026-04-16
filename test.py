@@ -1,3 +1,3 @@
 name = 10
 print(type(name)) # to know the data type,  use keyword 'type'
-print(id(name))
+print(id(name)) # to know the ID of data, use keyword 'id'
